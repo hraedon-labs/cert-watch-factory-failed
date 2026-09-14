@@ -67,3 +67,6 @@ Thumbs.db
 temp/
 uploads/
 tmp/
+
+# never commit the local denylist (identifier gate)
+.identifiers-denylist.local
